@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=monsterRace
+comment1.params=
+comment1.target=monsterRace()
+comment2.params=
+comment2.target=void\ setRace()
+comment3.params=
+comment3.target=java.lang.String\ getRace()
+numComments=4

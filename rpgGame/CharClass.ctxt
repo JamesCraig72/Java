@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=CharClass
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ CharClass\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=CharClass()
+comment2.params=value
+comment2.target=void\ setClass(int)
+comment3.params=
+comment3.target=java.lang.String\ getCharClass()
+numComments=4
